@@ -1,2 +1,1 @@
-# Tetris
-A game of Tetris in Java
+# CSC207-Tetris-City
