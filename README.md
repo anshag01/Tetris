@@ -1,1 +1,1 @@
-# CSC207-Tetris-City
+# Tetris-City
